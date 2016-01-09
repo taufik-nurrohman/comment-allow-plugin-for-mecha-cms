@@ -1,0 +1,12 @@
+Title: Allow Comments
+Author: Taufik Nurrohman
+URL: http://mecha-cms.com
+Version: 1.0.0
+
+====
+
+> Allow comments on certain article only.
+
+Add ability to enable and disable comments feature on certain article.
+
+<!-- block:donate -->

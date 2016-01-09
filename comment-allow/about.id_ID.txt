@@ -1,0 +1,12 @@
+Title: Izinkan Komentar
+Author: Taufik Nurrohman
+URL: http://mecha-cms.com
+Version: 1.0.0
+
+====
+
+> Izinkan komentar hanya pada artikel tertentu.
+
+Menambahkan kemampuan untuk mengaktifkan dan mematikan fitur komentar pada artikel tertentu.
+
+<!-- block:donate -->
