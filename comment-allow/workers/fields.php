@@ -2,9 +2,9 @@
 
 return array(
     'allow_comments' => array(
-        'title' => $speak->plugin_comment_allow_title_allow,
+        'title' => $speak->plugin_comment_allow->title->allow,
         'type' => 'boolean',
-        'description' => $speak->plugin_comment_allow_description_allow,
+        'description' => $speak->plugin_comment_allow->description->allow,
         'scope' => 'article'
     )
 );
